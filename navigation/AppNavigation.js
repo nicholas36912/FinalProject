@@ -11,7 +11,6 @@ const AppNavigation = () => {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen name="Home" component={HomeScreen} />
-    //add pages here
       </Stack.Navigator>
     </NavigationContainer>
   );
